@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Hannah! 
 
 #### Data Wrangler in Training 
-I'm a life-long learner and educator with a passion for data analysis. I enjoy transforming big datasets into insightful visualizations and statistical evidence. 
+I'm a lifelong learner and educator with a passion for data analysis. I enjoy transforming big datasets into insightful visualizations and statistical evidence. 
 
 ## 🌱 What I'm Doing Now
 - University of Oregon Data Analytics Boot Camp (March 2025)
