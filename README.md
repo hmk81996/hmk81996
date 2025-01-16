@@ -24,6 +24,8 @@ I'm a life-long learner and educator with a passion for data analysis. I enjoy t
   - CSS
  
 ## 💡 My Work
+See my pinned projects below. 
+Coming soon: A list of favorite projects that showcase my data analyst strenghts.
 
 
 <!--
