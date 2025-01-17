@@ -31,6 +31,15 @@ These are a few of my strongest and favorite projects. Check out my pinned proje
 - Tools: Jupyter Notebook, Python (pandas, numpy, scipy), OpenWeatherMap and GeoApify APIs
 - Using OpenWeatherMap, I generated a series of plots showing latitude in relation to weather variables for a dataset of global cities. Using this same dataset, I filtered for "ideal weather conditions" and used GeoApify to find hotels within range of those ideal vacation spots.
 
+### Employee Database
+[Project Repository](https://github.com/hmk81996/sql-challenge)
+- Tools: SQL, PostgreSQL, QuickDBD
+- Using six CSV files, I designed corresponding tables, imported those files into a SQL database, and performed a series of queries on this new database.
+
+### Climate Analysis
+[Project Repository](https://github.com/hmk81996/sqlalchemy-challenge/tree/main)
+- Tools: Jupyter Notebook, Python, SQLAlchemy ORM queries, Pandas, Matplotlib, Flask API
+- Using a couple of databases containing weather station data, I retreived and plotted the 12 most recent months of precipitation data. Next, I found the weather station with the greatest number of observations and plotted the 12 most recent months of temperature data.
 
 
 <!--
