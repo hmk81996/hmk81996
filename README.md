@@ -27,6 +27,12 @@ I'm a lifelong learner and educator with a passion for data analysis. I enjoy tr
 See my pinned projects below. 
 Coming soon: A list of favorite projects that showcase my data analyst strenghts.
 
+### Weather Variables and Ideal Vacation Locations
+[Project Repository](https://github.com/hmk81996/python-api-challenge/tree/main)
+- Tools: Jupyter Notebook, Python (pandas, numpy, scipy), OpenWeatherMap and GeoApify APIs
+- Using OpenWeatherMap, I generated a series of plots showing latitude in relation to weather variables for a dataset of global cities. Using this same dataset, I filtered for "ideal weather conditions" and used GeoApify to find hotels within range of those ideal vacation spots.
+
+
 
 <!--
 **hmk81996/hmk81996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
