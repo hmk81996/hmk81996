@@ -24,8 +24,7 @@ I'm a lifelong learner and educator with a passion for data analysis. I enjoy tr
   - CSS
  
 ## ⚡ My Work
-See my pinned projects below. 
-Coming soon: A list of favorite projects that showcase my data analyst strenghts.
+These are a few of my strongest and favorite projects. Check out my pinned projects below for additional work samples. 
 
 ### Weather Variables and Ideal Vacation Locations
 [Project Repository](https://github.com/hmk81996/python-api-challenge/tree/main)
