@@ -9,7 +9,7 @@ I'm a lifelong learner and educator with a passion for data analysis. I enjoy tr
 ## 🧰 My Toolbox
 - Programming Languages
   - Python: Pandas, NumPy, SciPy, Matplotlib, Flask
-  - JavaScript: Plotly, D3.JSON, GeoJSON
+  - JavaScript: Plotly, D3.JSON, GeoJSON, Leaflet
   - SQL
 - Databases and ETL
   - SQL and SQLAlchemy
