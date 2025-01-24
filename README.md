@@ -11,8 +11,8 @@ I'm a lifelong learner and educator with a passion for data analysis. I enjoy tr
   - Python: Pandas, NumPy, SciPy, Matplotlib, Flask
   - JavaScript: Plotly, D3.JSON, GeoJSON, Leaflet
   - SQL
-- Databases and ETL
-  - SQL and SQLAlchemy
+- Databases, ETL, and Version Control
+  - PostgreSQL and SQLAlchemy
   - MongoDB
   - Microsoft Excel (Advanced)
   - GitHub
