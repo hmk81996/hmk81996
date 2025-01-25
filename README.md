@@ -36,6 +36,11 @@ These are a few of my strongest and favorite projects. Check out my pinned proje
 - Tools: SQL, PostgreSQL, QuickDBD
 - Using six CSV files, I designed corresponding tables, imported those files into a SQL database, and performed a series of queries on this new database.
 
+### Biodiversity Dataset
+[Project Repository](https://github.com/hmk81996/javascript-visualization-challenge)
+- Tools: Javascript, D3.js, HTML, CSS
+- Using a Belly Button Biodviersity dataset (which catalogs the microbes that colonize human navels), I built an interactive dashboard that 1) displays a panel of demographic data for each subject  and updates for user selections and 2) creates a bubble chart and a bar chart for each user selected subject.
+
 ### Climate Analysis
 [Project Repository](https://github.com/hmk81996/sqlalchemy-challenge/tree/main)
 - Tools: Jupyter Notebook, Python, SQLAlchemy ORM queries, Pandas, Matplotlib, Flask API
