@@ -17,6 +17,7 @@ I'm a lifelong learner and educator with a passion for data analysis. I enjoy tr
   - Microsoft Excel (Advanced)
   - GitHub
 - Integrated Development Environments
+  - VBA
   - Visual Studio Code
   - Jupyter Notebook
 - Web Development
