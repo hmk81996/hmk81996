@@ -27,26 +27,26 @@ I'm a lifelong learner and educator with a passion for data analysis. I enjoy tr
 ## ⚡ My Work
 These are a few of my strongest and favorite projects. Check out my pinned projects below for additional work samples. 
 
-### Weather Variables and Ideal Vacation Locations
-[Project Repository](https://github.com/hmk81996/python-api-challenge/tree/main)
-- Tools: Jupyter Notebook, Python (pandas, numpy, scipy), OpenWeatherMap and GeoApify APIs
-- Using OpenWeatherMap, I generated a series of plots showing latitude in relation to weather variables for a dataset of global cities. Using this same dataset, I filtered for "ideal weather conditions" and used GeoApify to find hotels within range of those ideal vacation spots.
+### Crowdfunding Excel Cleaning and Analysis
+[Project Respository](https://github.com/hmk81996/excel-challenge)
+- Tools: Excel
+- Clean and analyze a database. Create pivot tables and charts to uncover trends.
+
 
 ### Employee Database
 [Project Repository](https://github.com/hmk81996/sql-challenge)
 - Tools: SQL, PostgreSQL, QuickDBD
-- Using six CSV files, I designed corresponding tables, imported those files into a SQL database, and performed a series of queries on this new database.
+- Using six CSV files, design corresponding tables, import those files into a SQL database, and perform a series of queries on this new database.
 
 ### Biodiversity Dataset
 [Project Repository](https://github.com/hmk81996/javascript-visualization-challenge)
 - Tools: Javascript, D3.js, HTML, CSS
-- Using a Belly Button Biodviersity dataset (which catalogs the microbes that colonize human navels), I built an interactive dashboard that 1) displays a panel of demographic data for each subject  and updates for user selections and 2) creates a bubble chart and a bar chart for each user selected subject.
+- Using a Belly Button Biodviersity dataset (which catalogs the microbes that colonize human navels), build an interactive dashboard that 1) displays a panel of demographic data for each subject and updates for user selections 2) creates a bubble chart and a bar chart for each user selected subject.
 
-### Climate Analysis
-[Project Repository](https://github.com/hmk81996/sqlalchemy-challenge/tree/main)
-- Tools: Jupyter Notebook, Python, SQLAlchemy ORM queries, Pandas, Matplotlib, Flask API
-- Using a couple of databases containing weather station data, I retreived and plotted the 12 most recent months of precipitation data. Next, I found the weather station with the greatest number of observations and plotted the 12 most recent months of temperature data.
-
+### Weather Variables and Ideal Vacation Locations
+[Project Repository](https://github.com/hmk81996/python-api-challenge/tree/main)
+- Tools: Python (pandas, numpy, scipy), Jupyter Notebook, OpenWeatherMap and GeoApify APIs
+- Using OpenWeatherMap, I generated a series of plots showing latitude in relation to weather variables for a dataset of global cities. Using this same dataset, I filtered for "ideal weather conditions" and used GeoApify to find hotels within range of those ideal vacation spots.
 
 <!--
 **hmk81996/hmk81996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
