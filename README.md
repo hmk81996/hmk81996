@@ -39,6 +39,7 @@ These are a few of my strongest and favorite projects. Check out my pinned proje
 
 ### Citi Bike Dashboard
 [Tableau Visualization](https://public.tableau.com/app/profile/hannah.miles.kingrey/viz/citibike_analysis_17392480645700/Story1)
+[Project Repository](https://github.com/hmk81996/citibike-dashboard)
 - Tools: Tableau, Jupyter Notebook, Pandas
 - Concatenated and cleaned quarterly data from Citi Bike to create a new CSV file to visualize using Tableau. Includes three dashboards and an interactive map.
 
