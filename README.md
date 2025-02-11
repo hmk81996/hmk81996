@@ -30,13 +30,17 @@ These are a few of my strongest and favorite projects. Check out my pinned proje
 ### Crowdfunding Excel Cleaning and Analysis
 [Project Respository](https://github.com/hmk81996/excel-challenge)
 - Tools: Excel
-- Clean and analyze a database. Create pivot tables and charts to uncover trends.
-
+- Cleaned and analyzed a database. Created pivot tables and charts to uncover trends.
 
 ### Employee Database
 [Project Repository](https://github.com/hmk81996/sql-challenge)
 - Tools: SQL, PostgreSQL, QuickDBD
-- Using six CSV files, design corresponding tables, import those files into a SQL database, and perform a series of queries on this new database.
+- Using six CSV files, designed corresponding tables, imported those files into a SQL database, and performed a series of queries on this new database.
+
+### Citi Bike Dashboard
+[Tableau Visualization](https://public.tableau.com/app/profile/hannah.miles.kingrey/viz/citibike_analysis_17392480645700/Story1)
+- Tools: Tableau, Jupyter Notebook, Pandas
+- Created and cleaned quarterly data from Citi Bike to create a new CSV file to visualize using Tableau. Includes three dashboards and an interactive map.
 
 ### Biodiversity Dataset
 [Project Repository](https://github.com/hmk81996/javascript-visualization-challenge)
