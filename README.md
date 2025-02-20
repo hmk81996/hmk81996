@@ -1,83 +1,62 @@
 ## 👋 Hi, I'm Hannah! 
 
-#### Data Wrangler in Training 
-I'm a lifelong learner and educator with a passion for data analysis. I enjoy transforming big datasets into clear and compelling narratives using insightful visualizations and statistical evidence. 
+📧 Email: [hmk81996@gmail.com](hmk81996@gmail.com)
+💼 LinkedIn: [https://www.linkedin.com/in/hkingrey/](https://www.linkedin.com/in/hkingrey/)
 
-## 🌱 What I'm Doing Now
-- University of Oregon Data Analytics Boot Camp (March 2025)
+#### Data Analyst | Educator | Lifelong Learner
+With a background in education and a growing expertise in analytics, I enjoy transforming big datasets into clear and compelling narratives using insightful visualizations and statistical evidence. 
+
+## 📌 What I'm Doing Now
+- **University of Oregon Data Analytics Boot Camp** *(March 2025)*
+- **Seeking data analyst roles** in education and beyond
   
 ## 🧰 My Toolbox
-- **Programming Languages & Data Manipulation**
-  - JavaScript: Charts.js, D3.js, GeoJSON, Leaflet
-  - Python: Flask, Matplotlib, NumPy, Pandas, SciPy
-  - SQL
-- **Databases, ETL and Data Processing**
-  - GitHubMicrosoft Excel (Advanced)
+- **Programming & Data Manipulation**
+  - JavaScript: Charts.js, GeoJSON, Leaflet
+  - Python: Flask, Matplotlib, NumPy, Pandas, Plotly, SciPy
+  - SQL: PostgreSQL, SQLAlchemy, SQLite
+- **Databases & Data Processing**
+  - Excel (Advanced)
   - MongoDB
-  - PostgreSQL & SQLAlchemy
-  - VBA
+  - PostgreSQL
 - **Data Visualization & Business Intelligence**
   - D3.js
   - Matplotlib & Seaborn
-  - Plotly
   - Tableau
-- **Integrated Development Environments**
-  - Jupyter Notebook
-  - VBA
-  - Visual Studio Code
-- **Web Development**
-  - CSS
-  - HTML
+- **Web Development and APIs**
+  - CSS & HTML
+  - API Integration
 - **Machine Learning & Data Science**
-  - **Supervised Learning:** Classification, Linear & Logistic Regression, Random Forest, SVM
-  - **Unsupervised Learning:** Agglomerative Clustering, Birch Model, Elbow Method, KMeans, PCA
+  - **Supervised Learning:** Linear & Logistic Regression, Random Forest, SVM
+  - **Unsupervised Learning:** Clustering, Elbow Method, KMeans, PCA
  
-## ⚡ My Work
-These are a few of my strongest and favorite projects. Check out my pinned projects below for additional work samples. 
+## ⚡ Featured Projects
+Check out my projects below or explore more on GitHub!
 
-### Crowdfunding Excel Cleaning and Analysis
-[Project Respository](https://github.com/hmk81996/excel-challenge)
-- Tools: Excel
-- Cleaned and analyzed a database. Created pivot tables and charts to uncover trends.
-
-### Employee Database
-[Project Repository](https://github.com/hmk81996/sql-challenge)
-- Tools: SQL, PostgreSQL, QuickDBD
-- Using six CSV files, designed corresponding tables, imported those files into a SQL database, and performed a series of queries on this new database.
-
-### Citi Bike Dashboard
+### 🚲 Citi Bike Dashboard
 [Tableau Visualization](https://public.tableau.com/app/profile/hannah.miles.kingrey/viz/citibike_analysis_17392480645700/Story1)
 
 [Project Repository](https://github.com/hmk81996/citibike-dashboard)
 - Tools: Tableau, Jupyter Notebook, Pandas
-- Concatenated and cleaned quarterly data from Citi Bike to create a new CSV file to visualize using Tableau. Includes three dashboards and an interactive map.
+- Overview: Cleaned and aggregated Citi Bike data to build interactive dashboards and maps, uncovering key ridership trends.
 
-### Biodiversity Dataset
-[Project Repository](https://github.com/hmk81996/javascript-visualization-challenge)
-- Tools: Javascript, D3.js, HTML, CSS
-- Using a Belly Button Biodviersity dataset (which catalogs the microbes that colonize human navels), build an interactive dashboard that 1) displays a panel of demographic data for each subject and updates for user selections 2) creates a bubble chart and a bar chart for each user selected subject.
+### 📝Employee Database
+[Project Repository](https://github.com/hmk81996/sql-challenge)
+- Tools: SQL, PostgreSQL, QuickDBD
+- Overview: Designed a relational database from six CSV files, wrote queries to analyze employee trends, and optimized data storage.
 
-### Weather Variables and Ideal Vacation Locations
+### 🌍 Weather Variables and Ideal Vacation Locations
 [Project Repository](https://github.com/hmk81996/python-api-challenge/tree/main)
 - Tools: Python (pandas, numpy, scipy), Jupyter Notebook, OpenWeatherMap and GeoApify APIs
-- Using OpenWeatherMap, I generated a series of plots showing latitude in relation to weather variables for a dataset of global cities. Using this same dataset, I filtered for "ideal weather conditions" and used GeoApify to find hotels within range of those ideal vacation spots.
+- Overview: Mapped global weather patterns and identified ideal vacation spots using real-time API data.
+
+### 🔬 Biodiversity Dataset
+[Project Repository](https://github.com/hmk81996/javascript-visualization-challenge)
+- Tools: Javascript(D3.js), HTML, CSS
+- Overview: Built an interactive dashboard displaying microbial biodiversity data, including real-time demographic updates and visualizations.
+
+### 🚀 Let's Connect!
+I’m always open to collaborating, learning, and tackling new challenges. Feel free to reach out!
 
 <!--
 **hmk81996/hmk81996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-## 📫 How to reach me:
-📧 Email: hmk81996@gmail.com
-💼 LinkedIn:
--->
