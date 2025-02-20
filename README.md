@@ -16,7 +16,7 @@ I'm a lifelong learner and educator with a passion for data analysis. I enjoy tr
   - MongoDB
   - PostgreSQL & SQLAlchemy
   - VBA
-- **Data Visualization & Business Intelligence Tools**
+- **Data Visualization & Business Intelligence**
   - D3.js
   - Matplotlib & Seaborn
   - Plotly
