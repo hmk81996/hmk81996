@@ -7,22 +7,30 @@ I'm a lifelong learner and educator with a passion for data analysis. I enjoy tr
 - University of Oregon Data Analytics Boot Camp (March 2025)
   
 ## 🧰 My Toolbox
-- Programming Languages
-  - Python: Pandas, NumPy, SciPy, Matplotlib, Flask
-  - JavaScript: Plotly, D3.JSON, GeoJSON, Leaflet
+- **Programming Languages & Data Manipulation**
+  - JavaScript: Charts.js, D3.js, GeoJSON, Leaflet
+  - Python: Flask, Matplotlib, NumPy, Pandas, SciPy
   - SQL
-- Databases, ETL and Version Control
-  - PostgreSQL and SQLAlchemy
+- **Databases, ETL and Data Processing**
+  - GitHubMicrosoft Excel (Advanced)
   - MongoDB
-  - Microsoft Excel (Advanced)
-  - GitHub
-- Integrated Development Environments
+  - PostgreSQL & SQLAlchemy
+  - VBA
+- **Data Visualization & Business Intelligence Tools**
+  - D3.js
+  - Matplotlib & Seaborn
+  - Plotly
+  - Tableau
+- **Integrated Development Environments**
+  - Jupyter Notebook
   - VBA
   - Visual Studio Code
-  - Jupyter Notebook
-- Web Development
-  - HTML
+- **Web Development**
   - CSS
+  - HTML
+- **Machine Learning & Data Science**
+  - **Supervised Learning:** Classification, Linear & Logistic Regression, Random Forest, SVM
+  - **Unsupervised Learning:** Agglomerative Clustering, Birch Model, Elbow Method, KMeans, PCA
  
 ## ⚡ My Work
 These are a few of my strongest and favorite projects. Check out my pinned projects below for additional work samples. 
