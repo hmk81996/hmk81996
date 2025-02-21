@@ -51,6 +51,7 @@ Check out my projects below or explore more on GitHub!
 - Overview: Mapped global weather patterns and identified ideal vacation spots using real-time API data.
 
 ### 🔬 Biodiversity Dataset
+[Dashboard](https://hmk81996.github.io/biodiversity-dashboard/)
 [Project Repository](https://github.com/hmk81996/javascript-visualization-challenge)
 - Tools: Javascript(D3.js), HTML, CSS
 - Overview: Built an interactive dashboard displaying microbial biodiversity data, including real-time demographic updates and visualizations.
