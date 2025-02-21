@@ -23,7 +23,7 @@ With a background in education and a growing expertise in analytics, I enjoy tra
   - D3.js
   - Matplotlib & Seaborn
   - Tableau
-- **Web Development and APIs**
+- **Web Development & APIs**
   - CSS & HTML
   - API Integration
 - **Machine Learning & Data Science**
