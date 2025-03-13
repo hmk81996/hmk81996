@@ -37,7 +37,7 @@ Check out my projects below or explore more on GitHub!
 [Tableau Visualization](https://public.tableau.com/app/profile/hannah.miles.kingrey/viz/citibike_analysis_17392480645700/Story1)
 
 [Project Repository](https://github.com/hmk81996/citibike-dashboard)
-- Tools: Jupyter Notebook, Python (pandas), Tableau
+- Tools: Tableau, Jupyter Notebook, Python (pandas)
 - Overview: Cleaned and aggregated Citi Bike data to build interactive dashboards and maps, uncovering key ridership trends.
 
 ### 📝Employee Database
@@ -46,6 +46,8 @@ Check out my projects below or explore more on GitHub!
 - Overview: Designed a relational database from six CSV files, wrote queries to analyze employee trends, and optimized data storage.
 
 ### 🏫 School Performance Report
+[Tableau Visualization](https://public.tableau.com/shared/4HFGS992M?:display_count=n&:origin=viz_share_link)
+
 [Project Repository](https://github.com/hmk81996/school-performance)
 - Tools: Jupyter Notebook, Python (pandas), Tableau
 - Overview: Created Pandas Dataframes and developed these into a presentation-ready Tableau dashboard.
