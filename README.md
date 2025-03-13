@@ -37,7 +37,7 @@ Check out my projects below or explore more on GitHub!
 [Tableau Visualization](https://public.tableau.com/app/profile/hannah.miles.kingrey/viz/citibike_analysis_17392480645700/Story1)
 
 [Project Repository](https://github.com/hmk81996/citibike-dashboard)
-- Tools: Tableau, Jupyter Notebook, Pandas
+- Tools: Jupyter Notebook, Python (pandas), Tableau
 - Overview: Cleaned and aggregated Citi Bike data to build interactive dashboards and maps, uncovering key ridership trends.
 
 ### 📝Employee Database
@@ -45,10 +45,10 @@ Check out my projects below or explore more on GitHub!
 - Tools: SQL, PostgreSQL, QuickDBD
 - Overview: Designed a relational database from six CSV files, wrote queries to analyze employee trends, and optimized data storage.
 
-### 🌍 Weather Variables and Ideal Vacation Locations
-[Project Repository](https://github.com/hmk81996/python-api-challenge/tree/main)
-- Tools: Python (pandas, numpy, scipy), Jupyter Notebook, OpenWeatherMap and GeoApify APIs
-- Overview: Mapped global weather patterns and identified ideal vacation spots using real-time API data.
+### 🏫 School Performance Report
+[Project Repository](https://github.com/hmk81996/school-performance)
+- Tools: Jupyter Notebook, Python (pandas), Tableau
+- Overview: Created Pandas Dataframes and developed these into a presentation-ready Tableau dashboard.
 
 ### 🔬 Biodiversity Dataset
 [Dashboard](https://hmk81996.github.io/biodiversity-dashboard/)
