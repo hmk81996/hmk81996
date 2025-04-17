@@ -59,6 +59,13 @@ Check out my projects below or explore more on GitHub!
 - Tools: Javascript(D3.js), HTML, CSS
 - Overview: Built an interactive dashboard displaying microbial biodiversity data, including real-time demographic updates and visualizations.
 
+### 🎓 Student Risk Prediction
+[Presentation](https://docs.google.com/presentation/d/1Bp3Lmyd5Ca5Vod1n0sbSwaiwOmEQA0X-QSGiUlR3wtg/edit?usp=sharing)
+
+[Project Repository](https://github.com/hmk81996/student-risk-prediction/tree/main)
+- Tools: SQLite, Python, Machine Learning
+- Overview: Used a student performance dataset to initialize, train, and evaluate a data model to make predictions about which features had the most impact on student success.
+
 ### 🚀 Let's Connect!
 I’m always open to collaborating, learning, and tackling new challenges. Feel free to reach out!
 
